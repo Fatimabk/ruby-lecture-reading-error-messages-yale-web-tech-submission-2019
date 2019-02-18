@@ -1,3 +1,3 @@
 
 
-hello_world = String.new("hello world")
+hello_world = "hello world"
